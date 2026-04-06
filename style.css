@@ -1,0 +1,31 @@
+#contêiner{
+    background-image: url('/imagens/FundoConfeitaria.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+#header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(73, 0, 141);
+    width: 95%;
+    height: 100px;
+    margin: 0 auto;
+}
+
+#body-page{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 224, 149);
+    width: 95%;
+    height: 500px;
+    margin: 0 auto;
+}
+
+#footer{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(56, 93, 255);
+    width: 95%;
+    height: 100px;
+    margin: 0 auto;
+}
